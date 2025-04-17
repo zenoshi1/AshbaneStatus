@@ -1,5 +1,21 @@
 # Ashbane.org | World of Warcraft Private Server - Project Status Overview
-**Expansion:** *Mists of Pandaria*
+**Expansion:** *Mists of Pandaria (5.4.8)*  
+**Website:** [https://ashbane.org](https://ashbane.org)  
+**Discord:** [Join Our Community](https://discord.gg/yourserverinvite)
+
+---
+
+## 📚 Table of Contents
+
+- [✅ Systems & Features](#-systems--features)
+- [🌍 Starting Zones](#-starting-zones)
+- [⚒️ Professions](#️-professions)
+- [⚙️ Gameplay Systems](#️-gameplay-systems)
+- [⚔️ PVP Systems](#-pvp-systems)
+- [🏅 MoP Reputations & Daily Hubs](#-mop-reputations--daily-hubs)
+- [🗺️ Dungeons & 🏰 Raids](#️-dungeons--raids)
+- [🧙 Classes](#-classes)
+- [🛠️ Contribute to Ashbane](#️-contribute-to-ashbane)
 
 ---
 
@@ -18,168 +34,204 @@
 
 ## 🌍 Starting Zones
 
-| Zone Name           | Status     | Notes                                                  |
-|---------------------|------------|--------------------------------------------------------|
-| Echo Isles          | ✅         | Trolls – 95%+ Blizzlike                                |
-| Northshire          | ✅         | Humans – 96%+ Blizzlike                                |
-| Coldridge Valley    | ✅         | Dwarves – 91%+ Blizzlike                               |
-| Shadowglen          | ✅         | Night Elves – 99%+ Blizzlike                           |
-| Gnomeregan          | ✅         | Gnomes – 90%+ Blizzlike                                |
-| Ammen Vale          | ✅         | Draenei – 96%+ Blizzlike                               |
-| Valley of Trials    | ✅         | Orcs – 99%+ Blizzlike                                  |
-| Deathknell          | ❌         | Undead – ~40% complete                                 |
-| Camp Narache        | ✅         | Tauren – 89%+ Blizzlike                                |
-| Sunstrider Isle     | ✅         | Blood Elves – 99%+ Blizzlike                           |
-| Gilneas City        | ✅         | Worgen – 91%+ Blizzlike                                |
-| Kezan               | 🔍         | Goblins – Not implemented                              |
-| Wandering Isle      | 🔍         | Pandaren – Not implemented                             |
+| Zone Name           | Status | Notes                        |
+|---------------------|--------|------------------------------|
+| Echo Isles          | ✅     | Trolls – 95%+ Blizzlike      |
+| Northshire          | ✅     | Humans – 96%+ Blizzlike      |
+| Coldridge Valley    | ✅     | Dwarves – 91%+ Blizzlike     |
+| Shadowglen          | ✅     | Night Elves – 99%+ Blizzlike |
+| Gnomeregan          | ✅     | Gnomes – 90%+ Blizzlike      |
+| Ammen Vale          | ✅     | Draenei – 96%+ Blizzlike     |
+| Valley of Trials    | ✅     | Orcs – 99%+ Blizzlike        |
+| Deathknell          | ❌     | Undead – ~40% complete       |
+| Camp Narache        | ✅     | Tauren – 89%+ Blizzlike      |
+| Sunstrider Isle     | ✅     | Blood Elves – 99%+ Blizzlike |
+| Gilneas City        | ✅     | Worgen – 91%+ Blizzlike      |
+| Kezan               | 🔍     | Goblins – Not implemented    |
+| Wandering Isle      | 🔍     | Pandaren – Not implemented   |
 
 ---
 
 ## ⚒️ Professions
 
-| Profession   | Status | Notes                                    |
-|--------------|--------|------------------------------------------|
-| Crafting     | ✅     | Skill points from crafting               |
-| Mining       | ✅     | XP gain from gathering nodes             |
-| Herbalism    | ✅     | XP gain from herb gathering              |
-| Archaeology  | ✅     | XP from relic digging                    |
+| Profession   | Status | Notes                         |
+|--------------|--------|-------------------------------|
+| Crafting     | ✅     | Skill points from crafting    |
+| Mining       | ✅     | XP gain from gathering nodes  |
+| Herbalism    | ✅     | XP gain from herb gathering   |
+| Archaeology  | ✅     | XP from relic digging         |
 
 ---
 
 ## ⚙️ Gameplay Systems
 
-| System                 | Status     | Notes                                                  |
-|------------------------|------------|--------------------------------------------------------|
-| Dungeon Finder         | ✅         | Working                                                |
-| Raid Finder (LFR)      | ❌         | Not implemented yet                                    |
-| Challenge Modes        | ❌         | MoP feature, not yet functional                        |
-| Talents & Specs (MoP)  | ✅         | MoP class talents reworked                             |
-| Group Sync / Phasing   | 🔍         | Partial, needs testing                                 |
+| System                 | Status | Notes                          |
+|------------------------|--------|--------------------------------|
+| Dungeon Finder         | ✅     | Fully working                  |
+| Raid Finder (LFR)      | ❌     | Not implemented yet            |
+| Challenge Modes        | ❌     | Not implemented yet            |
+| Talents & Specs (MoP)  | ✅     | MoP class talents reworked     |
+| Group Sync / Phasing   | 🔍     | Partial, needs testing         |
 
 ---
 
 ## ⚔️ PVP Systems
 
-| System                | Status     | Notes                                                  |
-|------------------------|------------|--------------------------------------------------------|
-| Battlegrounds          | ✅         | Working                                                |
-| Arenas (2v2, 3v3)      | ✅         | MMR and queuing working                                |
-| Rated Battlegrounds    | ✅         | Working                                                |
-| Pet Battle PVP         | ❌         | In development but need testing                        |
-| Tol Barad              | ✅         | Working                                                |
-| Wintergrasp            | ✅         | Working                                                |
+| System                | Status | Notes                              |
+|------------------------|--------|------------------------------------|
+| Battlegrounds          | ✅     | All core battlegrounds working     |
+| Arenas (2v2, 3v3)      | ✅     | MMR and queues working             |
+| Rated Battlegrounds    | ✅     | Working                            |
+| Pet Battle PVP         | ❌     | Planned, needs testing             |
+| Tol Barad              | ✅     | Working                            |
+| Wintergrasp            | ✅     | Working                            |
 
 ---
 
 ## 🏅 MoP Reputations & Daily Hubs
 
-| Faction                  | Status     | Notes                         |
-|--------------------------|------------|-------------------------------|
-| Golden Lotus             | ✅         | Phased quest chain + dailies  |
-| Shado-Pan                | ✅         | Reputation dailies            |
-| August Celestials        | ✅         | Daily system                  |
-| Klaxxi                   | ✅         | Zone and reputation gated     |
-| Order of the Cloud Serpent | ✅       | Mount raising system          |
+| Faction                   | Status | Notes                            |
+|---------------------------|--------|----------------------------------|
+| Golden Lotus              | ✅     | Phased story + daily quests      |
+| Shado-Pan                 | ✅     | Reputation + daily content       |
+| August Celestials         | ✅     | Daily system                     |
+| Klaxxi                    | ✅     | Zone-based progression           |
+| Order of the Cloud Serpent| ✅     | Mount raising + quests           |
 
 ---
 
-## 🗺️ Dungeons
+## 🗺️ Dungeons & 🏰 Raids
 
-### Classic (Vanilla)
-- 🔍 Deadmines - need testing
-- 🔍 Wailing Caverns - need testing
-- 🔍 Shadowfang Keep - need testing
-- 🔍 Scarlet Monastery (all wings) - need testing
-- 🔍 Scholomance - need testing
-- 🔍 Stratholme - need testing
-- 🔍 Uldaman - need testing
-- 🔍 Zul'Farrak - need testing
+All dungeons and raids are implemented but require **testing**. Status: 🔍
 
-### Burning Crusade
-- 🔍 Hellfire Ramparts - need testing
-- 🔍 The Blood Furnace - need testing
-- 🔍 The Shattered Halls - need testing
-- 🔍 Mana-Tombs - need testing
-- 🔍 Sethekk Halls - need testing
-- 🔍 Shadow Labyrinth - need testing
-- 🔍 Magisters' Terrace - need testing
+<details>
+<summary><strong>Click to expand full list</strong></summary>
 
-### Wrath of the Lich King
-- 🔍 Utgarde Keep - need testing
-- 🔍 The Nexus - need testing
-- 🔍 Azjol-Nerub - need testing
-- 🔍 Halls of Stone - need testing
-- 🔍 Halls of Lightning - need testing
-- 🔍 The Oculus - need testing
-- 🔍 Trial of the Champion - need testing
-- 🔍 Forge of Souls - need testing
+### Classic Dungeons
+- Deadmines  
+- Wailing Caverns  
+- Shadowfang Keep  
+- Scarlet Monastery (All Wings)  
+- Scholomance  
+- Stratholme  
+- Uldaman  
+- Zul'Farrak  
 
-### Cataclysm
-- 🔍 Blackrock Caverns - need testing
-- 🔍 Throne of the Tides - need testing
-- 🔍 The Stonecore - need testing
-- 🔍 Vortex Pinnacle - need testing
-- 🔍 Grim Batol - need testing
-- 🔍 Halls of Origination - need testing
-- 🔍 Zul’Aman (Heroic) - need testing
-- 🔍 Zul’Gurub (Heroic) - need testing
+### TBC Dungeons
+- Hellfire Ramparts  
+- The Blood Furnace  
+- The Shattered Halls  
+- Mana-Tombs  
+- Sethekk Halls  
+- Shadow Labyrinth  
+- Magisters' Terrace  
 
-### Mists of Pandaria
-- 🔍 Temple of the Jade Serpent - need testing
-- 🔍 Stormstout Brewery - need testing
-- 🔍 Shado-Pan Monastery - need testing
-- 🔍 Gate of the Setting Sun - need testing
-- 🔍 Mogu’shan Palace - need testing
-- 🔍 Scholomance (Revamp) - need testing
-- 🔍 Scarlet Halls - need testing
-- 🔍 Scarlet Monastery - need testing
-- 🔍 Siege of Niuzao Temple - need testing
+### WotLK Dungeons
+- Utgarde Keep  
+- The Nexus  
+- Azjol-Nerub  
+- Halls of Stone  
+- Halls of Lightning  
+- The Oculus  
+- Trial of the Champion  
+- Forge of Souls  
+
+### Cataclysm Dungeons
+- Blackrock Caverns  
+- Throne of the Tides  
+- The Stonecore  
+- Vortex Pinnacle  
+- Grim Batol  
+- Halls of Origination  
+- Zul’Aman  
+- Zul’Gurub  
+
+### Mists of Pandaria Dungeons
+- Temple of the Jade Serpent  
+- Stormstout Brewery  
+- Shado-Pan Monastery  
+- Gate of the Setting Sun  
+- Mogu’shan Palace  
+- Scholomance (Revamp)  
+- Scarlet Halls  
+- Scarlet Monastery  
+- Siege of Niuzao Temple  
 
 ---
 
-## 🏰 Raids
+### Classic Raids
+- Molten Core  
+- Blackwing Lair  
+- Ahn'Qiraj (20 & 40)  
 
-### Classic
-- 🔍 Molten Core - need testing
-- 🔍 Blackwing Lair - need testing
-- 🔍 Ahn'Qiraj (20 & 40) - need testing
+### TBC Raids
+- Karazhan  
+- Gruul’s Lair  
+- Magtheridon’s Lair  
+- Serpentshrine Cavern  
+- Tempest Keep  
+- Black Temple  
+- Sunwell Plateau  
 
-### The Burning Crusade
-- 🔍 Karazhan - need testing
-- 🔍 Gruul’s Lair - need testing
-- 🔍 Magtheridon’s Lair - need testing
-- 🔍 Serpentshrine Cavern - need testing
-- 🔍 Tempest Keep - need testing
-- 🔍 Black Temple - need testing
-- 🔍 Sunwell Plateau - need testing
+### WotLK Raids
+- Naxxramas (Revamp)  
+- Ulduar  
+- Trial of the Crusader  
+- Icecrown Citadel  
+- Vault of Archavon  
+- Ruby Sanctum  
 
-### Wrath of the Lich King
-- 🔍 Naxxramas (Revamp) - need testing
-- 🔍 Ulduar - need testing
-- 🔍 Trial of the Crusader - need testing
-- 🔍 Icecrown Citadel - need testing
-- 🔍 Vault of Archavon - need testing
-- 🔍 Ruby Sanctum - need testing
+### Cataclysm Raids
+- Baradin Hold  
+- Blackwing Descent  
+- Bastion of Twilight  
+- Throne of the Four Winds  
+- Firelands  
+- Dragon Soul  
 
-### Cataclysm
-- 🔍 Baradin Hold - need testing
-- 🔍 Blackwing Descent - need testing
-- 🔍 Bastion of Twilight - need testing
-- 🔍 Throne of the Four Winds - need testing
-- 🔍 Firelands - need testing
-- 🔍 Dragon Soul - need testing
-
-### Mists of Pandaria
-- 🔍 Mogu’shan Vaults - need testing
-- 🔍 Heart of Fear - need testing
-- 🔍 Terrace of Endless Spring - need testing
-- 🔍 Throne of Thunder - need testing
-- 🔍 Siege of Orgrimmar - need testing
+### MoP Raids
+- Mogu’shan Vaults  
+- Heart of Fear  
+- Terrace of Endless Spring  
+- Throne of Thunder  
+- Siege of Orgrimmar  
 
 #### World Bosses
-- 🔍 Galleon - need testing
-- 🔍 Nalak - need testing
-- 🔍 Oondasta - need testing
+- Galleon  
+- Nalak  
+- Oondasta  
+
+</details>
 
 ---
+
+## 🧙 Classes
+
+| Class         | Specializations                      | Status |
+|---------------|--------------------------------------|--------|
+| Death Knight  | Blood, Frost, Unholy                 | ✅     |
+| Druid         | Balance, Feral, Guardian, Restoration| ✅     |
+| Hunter        | Beast Mastery, Marksmanship, Survival| ✅     |
+| Mage          | Arcane, Fire, Frost                  | ✅     |
+| Monk          | Brewmaster, Windwalker, Mistweaver   | ✅     |
+| Paladin       | Holy, Protection, Retribution        | ✅     |
+| Priest        | Discipline, Holy, Shadow             | ✅     |
+| Rogue         | Assassination, Combat, Subtlety      | ✅     |
+| Shaman        | Elemental, Enhancement, Restoration   | ✅     |
+| Warlock       | Affliction, Demonology, Destruction  | ✅     |
+| Warrior       | Arms, Fury, Protection               | ✅     |
+
+---
+
+## 🛠️ Contribute to Ashbane
+
+If you'd like to support development:
+- Test dungeons/raids and report bugs
+- Contribute to zone scripting or profession systems
+- Join discussions on [Discord](https://discord.gg/yourserverinvite)
+
+Pull requests and GitHub Issues welcome!
+
+---
+
+**Ashbane.org – For the Community, By the Community.**
