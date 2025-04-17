@@ -1,7 +1,7 @@
-# Ashbane.org | World of Warcraft Private Server - Project Status Overview
+# 2025 - Ashbane.org | World of Warcraft Private Server - Project Status Overview
 **Expansion:** *Mists of Pandaria (5.4.8)*  
 **Website:** [https://ashbane.org](https://ashbane.org)  
-**Discord:** [Join Our Community](https://discord.gg/yourserverinvite)
+**Discord:** [Join Our Community](https://discord.ashbane.org)
 
 ---
 
@@ -226,12 +226,6 @@ All dungeons and raids are implemented but require **testing**. Status: 🔍
 ## 🛠️ Contribute to Ashbane
 
 If you'd like to support development:
-- Test dungeons/raids and report bugs
-- Contribute to zone scripting or profession systems
-- Join discussions on [Discord](https://discord.gg/yourserverinvite)
-
-Pull requests and GitHub Issues welcome!
-
----
-
-**Ashbane.org – For the Community, By the Community.**
+- Test quests, features, dungeons/raids and report bugs
+- Contribute to zone scripting or progression systems
+- Join discussions on [Discord]([https://discord.ashbane.org)
