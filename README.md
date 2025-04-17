@@ -23,7 +23,7 @@
 
 | Feature                  | Status | Notes                                                                 |
 |--------------------------|--------|-----------------------------------------------------------------------|
-| Battle Pet System        | ✅     | Collections, leveling, duel (pve+pvp), capturing, account-wide progress |
+| Battle Pet System        | ✅     | Collections, leveling, capturing, account-wide progress (PVP not implemented yet) |
 | BattlePay Shop           | ✅     | Website + ingame integration, currency merge for Vote/Donation points |
 | Transmog System          | ✅     | Item appearance change via collection                                 |
 | Scenario System          | ✅     | Pandaria scenarios scripted                                           |
