@@ -47,7 +47,7 @@
 | Camp Narache        | ✅     | Tauren – 89%+ Blizzlike      |
 | Sunstrider Isle     | ✅     | Blood Elves – 99%+ Blizzlike |
 | Gilneas City        | ✅     | Worgen – 91%+ Blizzlike      |
-| Kezan               | 🔍     | Goblins – Not implemented    |
+| Kezan               | ✅     | Goblins – 67% Blizzlike    |
 | Wandering Isle      | 🔍     | Pandaren – Not implemented   |
 
 ---
