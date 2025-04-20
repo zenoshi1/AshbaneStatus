@@ -48,7 +48,7 @@
 | Sunstrider Isle     | ✅     | Blood Elves – 99%+ Blizzlike |
 | Gilneas City        | ✅     | Worgen – 91%+ Blizzlike      |
 | Kezan               | ✅     | Goblins – 67% Blizzlike    |
-| Wandering Isle      | 🔍     | Pandaren – Not implemented   |
+| Wandering Isle      | ✅     | Pandaren – 91% Blizzlike   |
 
 ---
 
