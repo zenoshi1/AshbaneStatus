@@ -1,25 +1,27 @@
 # 2025 - Ashbane.org | World of Warcraft Private Server - Project Status Overview
+
 **Expansion:** *Mists of Pandaria (5.4.8)*  
 **Website:** [https://ashbane.org](https://ashbane.org)  
 **Discord:** [Join Our Community](https://discord.ashbane.org)
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
-- [✅ Systems & Features](#-systems--features)
-- [🌍 Starting Zones](#-starting-zones)
-- [⚒️ Professions](#️-professions)
-- [⚙️ Gameplay Systems](#️-gameplay-systems)
-- [⚔️ PVP Systems](#-pvp-systems)
-- [🏅 MoP Reputations & Daily Hubs](#-mop-reputations--daily-hubs)
-- [🗺️ Dungeons & 🏰 Raids](#️-dungeons--raids)
-- [🧙 Classes](#-classes)
-- [🛠️ Contribute to Ashbane](#️-contribute-to-ashbane)
+- [Systems & Features](#systems--features)
+- [Starting Zones](#starting-zones)
+- [Professions](#professions)
+- [Gameplay Systems](#gameplay-systems)
+- [PVP Systems](#pvp-systems)
+- [MoP Reputations & Daily Hubs](#mop-reputations--daily-hubs)
+- [Dungeons & Raids](#dungeons--raids)
+- [Classes](#classes)
+- [World Events](#world-events)
+- [Contribute to Ashbane](#contribute-to-ashbane)
 
 ---
 
-## ✅ Systems & Features
+## Systems & Features
 
 | Feature                  | Status | Notes                                                                 |
 |--------------------------|--------|-----------------------------------------------------------------------|
@@ -32,7 +34,7 @@
 
 ---
 
-## 🌍 Starting Zones
+## Starting Zones
 
 | Zone Name           | Status | Notes                        |
 |---------------------|--------|------------------------------|
@@ -47,12 +49,12 @@
 | Camp Narache        | ✅     | Tauren – 89%+ Blizzlike      |
 | Sunstrider Isle     | ✅     | Blood Elves – 99%+ Blizzlike |
 | Gilneas City        | ✅     | Worgen – 91%+ Blizzlike      |
-| Kezan               | ✅     | Goblins – 67% Blizzlike    |
-| Wandering Isle      | ✅     | Pandaren – 91% Blizzlike   |
+| Kezan               | ✅     | Goblins – 67% Blizzlike      |
+| Wandering Isle      | ✅     | Pandaren – 91% Blizzlike     |
 
 ---
 
-## ⚒️ Professions
+## Professions
 
 | Profession   | Status | Notes                         |
 |--------------|--------|-------------------------------|
@@ -63,7 +65,7 @@
 
 ---
 
-## ⚙️ Gameplay Systems
+## Gameplay Systems
 
 | System                 | Status | Notes                          |
 |------------------------|--------|--------------------------------|
@@ -75,20 +77,20 @@
 
 ---
 
-## ⚔️ PVP Systems
+## PVP Systems
 
 | System                | Status | Notes                              |
-|------------------------|--------|------------------------------------|
-| Battlegrounds          | ✅     | All core battlegrounds working     |
-| Arenas (2v2, 3v3)      | ✅     | MMR and queues working             |
-| Rated Battlegrounds    | ✅     | Working                            |
-| Pet Battle PVP         | ❌     | Planned, needs testing             |
-| Tol Barad              | ✅     | Working                            |
-| Wintergrasp            | ✅     | Working                            |
+|-----------------------|--------|------------------------------------|
+| Battlegrounds         | ✅     | All core battlegrounds working     |
+| Arenas (2v2, 3v3)     | ✅     | MMR and queues working             |
+| Rated Battlegrounds   | ✅     | Working                            |
+| Pet Battle PVP        | ❌     | Planned, needs testing             |
+| Tol Barad             | ✅     | Working                            |
+| Wintergrasp           | ✅     | Working                            |
 
 ---
 
-## 🏅 MoP Reputations & Daily Hubs
+## MoP Reputations & Daily Hubs
 
 | Faction                   | Status | Notes                            |
 |---------------------------|--------|----------------------------------|
@@ -100,7 +102,7 @@
 
 ---
 
-## 🗺️ Dungeons & 🏰 Raids
+## Dungeons & Raids
 
 All dungeons and raids are implemented but require **testing**. Status: 🔍
 
@@ -205,7 +207,7 @@ All dungeons and raids are implemented but require **testing**. Status: 🔍
 
 ---
 
-## 🧙 Classes
+## Classes
 
 | Class         | Specializations                      | Status |
 |---------------|--------------------------------------|--------|
@@ -223,9 +225,32 @@ All dungeons and raids are implemented but require **testing**. Status: 🔍
 
 ---
 
-## 🛠️ Contribute to Ashbane
+## Game Events
+
+| In-game calendar        | Status | Notes                                        |
+|-------------------------|--------|----------------------------------------------|
+| Darkmoon Faire          | ⌛     | Work in progress                             |
+
+| Event Name              | Status | Notes                                        |
+|-------------------------|--------|----------------------------------------------|
+| Darkmoon Faire          | 🕛     | Planned                             |
+| Brewfest                | ❌     | Not yet started                             |
+| Hallow’s End            | ❌     | Not yet started                             |
+| Love is in the Air      | ⌛     | Work in progress                             |
+| Midsummer Fire Festival | 🕛     | Planned                                      |
+| Lunar Festival          | ❌     | Not yet started                             |
+| Pilgrim's Bounty        | ❌     | Not yet started                             |
+| Winter Veil             | ❌     | Not yet started                             |
+| Children’s Week         | ❌     | Not yet started                             |
+| Pirate’s Day            | ❌     | Not yet started                             |
+| Day of the Dead         | ❌     | Not yet started                             |
+| Noblegarden             | ❌     | Not yet started                             |
+
+---
+
+## Contribute to Ashbane
 
 If you'd like to support development:
 - Test quests, features, dungeons/raids and report bugs
 - Contribute to zone scripting or progression systems
-- Join discussions on [Discord]([https://discord.ashbane.org)
+- Join discussions on [Discord](https://discord.ashbane.org)
