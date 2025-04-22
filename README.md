@@ -233,18 +233,18 @@ All dungeons and raids are implemented but require **testing**. Status: 🔍
 
 | Event Name              | Status | Notes                                        |
 |-------------------------|--------|----------------------------------------------|
-| Darkmoon Faire          | 🕛     | Planned                             |
+| Darkmoon Faire          | 🕛     | Planned as next                            |
 | Brewfest                | ❌     | Not yet started                             |
 | Hallow’s End            | ❌     | Not yet started                             |
-| Love is in the Air      | ⌛     | Work in progress                             |
-| Midsummer Fire Festival | 🕛     | Planned                                      |
+| Love is in the Air      | ❌     | Work in progress                             |
+| Midsummer Fire Festival | ⌛     | Work in progress                                       |
 | Lunar Festival          | ❌     | Not yet started                             |
 | Pilgrim's Bounty        | ❌     | Not yet started                             |
 | Winter Veil             | ❌     | Not yet started                             |
 | Children’s Week         | ❌     | Not yet started                             |
 | Pirate’s Day            | ❌     | Not yet started                             |
 | Day of the Dead         | ❌     | Not yet started                             |
-| Noblegarden             | ❌     | Not yet started                             |
+| Noblegarden             | ✅     | Fully implemented, all achievements are working, items are obtainable        |
 
 ---
 
