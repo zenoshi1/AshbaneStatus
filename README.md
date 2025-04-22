@@ -225,7 +225,7 @@ All dungeons and raids are implemented but require **testing**. Status: 🔍
 
 ---
 
-## Game Events
+## World Events
 
 | In-game calendar        | Status | Notes                                        |
 |-------------------------|--------|----------------------------------------------|
